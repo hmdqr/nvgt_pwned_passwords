@@ -1,6 +1,6 @@
 # NVGT Pwned Passwords Checker
 
-A simple library for NVGT to check if a password has been leaked in data breaches.
+A simple library for [NVGT](https://github.com/samtupy/nvgt) to check if a password has been leaked in data breaches.
 
 It uses the [Have I Been Pwned](https://haveibeenpwned.com/) API.
 
